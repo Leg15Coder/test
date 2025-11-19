@@ -1,6 +1,6 @@
 import type { Movie, MovieDetails } from '../types/movie';
 
-const API_KEY = 'YOUR_TMDB_API_KEY'; // Replace with actual API key
+const API_KEY = '6b9590515133272d26bc843f7189fd91'; // Replace with actual API key
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 export const movieApi = {
